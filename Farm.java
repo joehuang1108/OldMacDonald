@@ -1,4 +1,5 @@
-class Farm 
+class Farm implements Animal
 {     
-   //your code here
+  
 }
+   
